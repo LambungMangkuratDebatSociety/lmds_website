@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://lambung-mangkurat-debate-society.netlify.app/'
 languageCode = 'en-us'
 title = 'Lambung Mangkurat Debate Society'
 theme = "spectral"
