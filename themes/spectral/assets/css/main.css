@@ -2131,12 +2131,6 @@ input, select, textarea {
 			color: white;
 		}
 
-		.titleweb{
-			white-space: nowrap;
-			overflow: hidden;
-			text-overflow: ellipsis;
-		}
-		
 /* Image */
 
 	.image {
