@@ -3629,8 +3629,11 @@ input, select, textarea {
 
 /* Banner */
 
+
 	#banner {
-		background-color: #9A0009;
+		
+		background-image: url("/img/1.jpg");
+		background-size: 1366px 768px;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3649,6 +3652,7 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		
 	}
 
 		#banner h2 {
