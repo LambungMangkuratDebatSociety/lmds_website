@@ -12,6 +12,8 @@
 		<meta name="referrer" content="origin">
 		<script defer src="/static/fonts/all.js"></script>
 
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
     {{ with .Site.Params.description }}<meta name="description" content="{{ . | plainify }}">{{ end }}
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ range .AlternativeOutputFormats -}}

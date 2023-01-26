@@ -225,6 +225,9 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	.no-spacing{
+		letter-spacing: 0;
+	}
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
@@ -3846,8 +3849,8 @@ input, select, textarea {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
-		max-width: 45em;
+		display: block;
+		max-width: 50em;
 	}
 
 		#cta .inner header {

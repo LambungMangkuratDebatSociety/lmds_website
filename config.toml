@@ -99,11 +99,11 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 
 [params.cta]
 enable = true
-title = "Have a question? <br> Check out our FaQ first →"
-body = "Here you can find lists of Frequently Asked Question"
+title = "Have a question? <br> Check out our <u>FaQs</u> <br> before sending us a <u>message!</u>"
+body = "Before you send us any questions, you could check out the Frequently Asked Questions!"
 
 [[params.cta.link]]
-href = "#"
+href = "/faq"
 text = "FAq"
 special = false
 
@@ -113,7 +113,7 @@ title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "2110117120016@mhs.ulm.ac.id"
+email = "_"
 subject = "New Submission!"
 plain = false
 
