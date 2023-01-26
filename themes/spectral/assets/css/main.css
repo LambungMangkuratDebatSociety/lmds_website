@@ -2530,7 +2530,9 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #8D0006;
-			box-shadow: none !important;
+			box-shadow: 3px 4px 29px 10px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 4px 29px 10px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 4px 29px 10px rgba(0,0,0,0.75);
 			color: #ffffff !important;
 		}
 
@@ -3631,9 +3633,9 @@ input, select, textarea {
 
 
 	#banner {
-		
-		background-image: url("/img/1.jpg");
-		background-size: 1366px 768px;
+		background-image: url("/img/2.png");
+		background-size: 300vh;
+		background-repeat: inherit;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3652,7 +3654,6 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
-		
 	}
 
 		#banner h2 {
@@ -3687,10 +3688,12 @@ input, select, textarea {
 				height: 2px;
 				position: absolute;
 				width: 100%;
+				border: black;
 			}
-
+			
 			#banner h2:before {
 				top: 0;
+				border-width: 20px;
 				left: 0;
 			}
 
@@ -4052,6 +4055,10 @@ input, select, textarea {
 
 	body.is-mobile.landing #page-wrapper {
 		background: none;
+		background-image: url("/img/2.png");
+		align-content: center;
+		background-size: 125vh;
+		background-repeat: inherit;
 	}
 
 	body.is-mobile.landing #banner,

@@ -4,14 +4,15 @@ title = 'Lambung Mangkurat Debate Society'
 theme = "spectral"
 
 [params]
-fancyTitle = "Lambung Mangkurat<br> Debate Society " # title for frontpage, may include image
+fancyTitle = "Lambung Mangkurat<br> Debate Society" # title for frontpage, may include image
 img = "/img/logo.png"
 copyright = "Lambung Mangkurat<br> Debate Society"
 description = '<i>Corgito Ergo Sum</i>'
 startbuttonText = "About us"
 startbuttonLink = "/posts/about"
 body_is_markdown = true
-#custom_css = "foo.css"
+images = ["/img/1.jpg"]
+#custom_css = "foo.css"/img/1.jpg
 
 [[params.menu.main]]
 url = '/'
