@@ -76,18 +76,22 @@ fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
 
 [[params.three.feature]]
+icon = "fa-rocket"
 title = "Intensive Training"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
+icon = "fa-trophy"
 title = "Competition"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
+icon = "fa-users"
 title = "Monthly Gathering"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
+icon = " fa-graduation-cap"
 title = "Bootcamp"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
