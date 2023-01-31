@@ -24,7 +24,7 @@ title = "Posts"
 
 [[params.menu.main]]
 url = '/division'
-title = "Divisions"
+title = "Executives & Divisions"
 
 [[params.menu.main]]
 url = '/posts/about'
@@ -62,12 +62,12 @@ label = "Lorem"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
+img = "img/4.webp"
 title = 'What is <br />debating?'
-body = 'Eiusmod veniam minim occaecat elit. Est minim tempor ea veniam magna labore incididunt velit sunt esse culpa. Ut deserunt velit labore commodo commodo id qui nulla veniam irure. Sint anim velit proident laboris esse deserunt laborum tempor ea id et. Elit amet dolor ea nisi. Tempor consectetur cillum Lorem duis non ipsum labore tempor ex ea occaecat esse labore. Amet do ipsum reprehenderit occaecat incididunt sint duis fugiat irure dolore duis consectetur proident.'
+body = 'A debate is an organized argument or contest of ideas in which the participants discuss a topic from two opposing sides. Those who agree with this statement or idea are the "Pro" side.  Those who will not agree with this statement or idea are the "Con" side.  Each side will show in an organized and clever way why they believe to have the right answers.  They will use examples and evidence to support their ideas while working towards a conclusion. '
 
 [[params.two.section]]
-img = "img/pic02.jpg"
+img = "img/5.webp"
 title = 'Why We focus on <br />personal growth through debating'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
@@ -75,8 +75,7 @@ body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. 
 enable = true
 title = 'Activites in <br> Lambung Mangkurat Debate Society'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+We have so many exciting activities in Lambung Mangkurat Debate Society to help improve personal growth in many ways:
 '''
 
 [[params.three.feature]]

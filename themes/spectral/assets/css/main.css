@@ -83,7 +83,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: auto;}
+
+
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -2378,6 +2380,31 @@ input, select, textarea {
 
 /* Table */
 
+	.exec{
+		vertical-align: auto;
+		background-color: #8D0006;
+		color: white;
+		border: none;
+	}
+
+	.exec td{
+			border: none;
+			border-collapse: collapse;
+			padding: 0.75em 0.75em;
+	}
+
+	.exec tr{
+		border: none;
+	}
+
+	.fotos{
+		width: 250px;
+		height: 250px;
+		object-fit: cover;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
@@ -2473,7 +2500,7 @@ input, select, textarea {
 		background-color: transparent;
 		border-radius: 3px;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #fff;
+		box-shadow:inset 0 0 0 2px #fff;
 		color: #fff;
 		cursor: pointer;
 		display: inline-block;
@@ -2546,9 +2573,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #8D0006;
-			box-shadow: 3px 4px 29px 10px rgba(0,0,0,0.75);
--webkit-box-shadow: 3px 4px 29px 10px rgba(0,0,0,0.75);
--moz-box-shadow: 3px 4px 29px 10px rgba(0,0,0,0.75);
+			box-shadow: unset;
 			color: #ffffff !important;
 		}
 
@@ -3519,6 +3544,10 @@ input, select, textarea {
 		transform: translateX(0);
 	}
 
+#two-content p::before{
+	content: "\00a0\00a0";
+}
+
 /* Header */
 
 	#header {
@@ -3555,6 +3584,7 @@ input, select, textarea {
 				display: block;
 				height: inherit;
 				line-height: inherit;
+				letter-spacing: unset;
 			}
 
 				@media screen and (max-width: 736px) {
@@ -3647,11 +3677,11 @@ input, select, textarea {
 
 /* Banner */
 
-
 	#banner {
 		background-image: url("/img/3.png");
 		background-size: cover;
 		width: 100%;
+		box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.803);
 		height:500px;
 		background-position: center;
 		background-repeat: inherit;

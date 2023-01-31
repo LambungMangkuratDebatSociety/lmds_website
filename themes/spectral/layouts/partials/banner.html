@@ -1,7 +1,8 @@
 <section id="banner">
-	<div class="inner">
-    <h2 style="text-shadow: 2px 3px 3px rgba(0,0,0,1);">{{ .Site.Params.fancytitle | safeHTML }}</h2>
-    <p style="text-shadow: 2px 3px 3px rgba(0,0,0,1);">{{ .Site.Params.description | safeHTML }}</p>
+  <div class="inner">
+    
+    <h2 style="">{{ .Site.Params.fancytitle | safeHTML }}</h2>
+    <p style="">{{ .Site.Params.description | safeHTML }}</p>
     {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
 		<ul class="actions special">
       <li><a href="{{ .Site.Params.StartbuttonLink }}" class="button primary">{{ .Site.Params.StartbuttonText }}</a></li>
