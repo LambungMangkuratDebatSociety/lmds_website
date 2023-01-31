@@ -2385,6 +2385,9 @@ input, select, textarea {
 		background-color: #8D0006;
 		color: white;
 		border: none;
+		-webkit-overflow-scrolling: touch;
+		overflow-x: auto;
+		width: 100%;
 	}
 
 	.exec td{
