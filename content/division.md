@@ -3,126 +3,43 @@ title: "Executives & Divisions in Lambung Mangkurat Debate Society"
 date: 2023-01-25T23:00:51+08:00
 draft: false
 ---
+
 ## {{< rawhtml >}}<i class="fa fa-university" aria-hidden="true"></i>
 {{< /rawhtml >}} Executive Committee
 {{< rawhtml >}}
 
-<div class="yeah">
-<table cellspacing="10" class="exec">
-	<tr>
-	<td>
-		<img src=
-"/img/bian.jpg" alt="Longtail boat in Thailand" class="fotos">
-	</td>
-	<td>
-  <h3 style="color: white;">President of Lambung Mangkurat Debate Society 2023</h3>
-<p>
-		How many times were you frustrated while looking
-		out for a good collection of programming/
-		algorithm/ interview questions? What did you
-		expect and what did you get? This portal has been
-		created to provide well written, well thought and
-		well explained solutions for selected questions.
-		An IIT Roorkee alumnus and founder of
-		GeeksforGeeks. He loves to solve programming
-		problems in most efficient ways. Apart from
-		GeeksforGeeks, he has worked with DE Shaw and
-		Co. as a software developer and JIIT Noida as
-		an assistant professor. It is a good platform
-		to learn programming. It is an educational
-		website. Prepare for the Recruitment drive of
-		product based companies like Microsoft, Amazon,
-		Adobe etc with a free online placement
-		preparation course.
-		</p>
-	</td>
-	</tr>
-	<tr>
-	<td>
-		<img src=
-"/img/bian.jpg" alt="Longtail boat in Thailand" class="fotos">
-	</td>
-	<td>
-  <h3 style="color: white;">Vice President of Lambung Mangkurat Debate Society 2023</h3>
-<p>
-		How many times were you frustrated while looking
-		out for a good collection of programming/
-		algorithm/ interview questions? What did you
-		expect and what did you get? This portal has been
-		created to provide well written, well thought and
-		well explained solutions for selected questions.
-		An IIT Roorkee alumnus and founder of
-		GeeksforGeeks. He loves to solve programming
-		problems in most efficient ways. Apart from
-		GeeksforGeeks, he has worked with DE Shaw and
-		Co. as a software developer and JIIT Noida as
-		an assistant professor. It is a good platform
-		to learn programming. It is an educational
-		website. Prepare for the Recruitment drive of
-		product based companies like Microsoft, Amazon,
-		Adobe etc with a free online placement
-		preparation course.
-		</p>
-	</td>
-	</tr>
-	<tr>
-	<td>
-		<img src=
-"/img/bian.jpg" alt="Longtail boat in Thailand" class="fotos">
-	</td>
-	<td>
-  <h3 style="color: white;">Secretary of Lambung Mangkurat Debate Society 2023</h3>
-<p>
-		How many times were you frustrated while looking
-		out for a good collection of programming/
-		algorithm/ interview questions? What did you
-		expect and what did you get? This portal has been
-		created to provide well written, well thought and
-		well explained solutions for selected questions.
-		An IIT Roorkee alumnus and founder of
-		GeeksforGeeks. He loves to solve programming
-		problems in most efficient ways. Apart from
-		GeeksforGeeks, he has worked with DE Shaw and
-		Co. as a software developer and JIIT Noida as
-		an assistant professor. It is a good platform
-		to learn programming. It is an educational
-		website. Prepare for the Recruitment drive of
-		product based companies like Microsoft, Amazon,
-		Adobe etc with a free online placement
-		preparation course.
-		</p>
-	</td>
-	</tr>
-	<tr>
-	<td>
-		<img src=
-"/img/bian.jpg" alt="Longtail boat in Thailand" class="fotos">
-	</td>
-	<td>
-  <h3 style="color: white;">Treasurer of Lambung Mangkurat Debate Society 2023</h3>
-<p>
-		How many times were you frustrated while looking
-		out for a good collection of programming/
-		algorithm/ interview questions? What did you
-		expect and what did you get? This portal has been
-		created to provide well written, well thought and
-		well explained solutions for selected questions.
-		An IIT Roorkee alumnus and founder of
-		GeeksforGeeks. He loves to solve programming
-		problems in most efficient ways. Apart from
-		GeeksforGeeks, he has worked with DE Shaw and
-		Co. as a software developer and JIIT Noida as
-		an assistant professor. It is a good platform
-		to learn programming. It is an educational
-		website. Prepare for the Recruitment drive of
-		product based companies like Microsoft, Amazon,
-		Adobe etc with a free online placement
-		preparation course.
-		</p>
-	</td>
-	</tr>
-</table>
-</div>
+<div class="wrapper2">
+        <img src="/img/bian.jpg" alt="" />
+        <div class="text-box">
+            <h2>President of Lambung Mangkurat Debate Society</h2>
+            <h4>Vieri Adi Dharma Puguh Putra</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+        </div>
+    </div>
+<div class="wrapper2">
+        <img src="/img/vieri.jpg" alt="" />
+        <div class="text-box">
+            <h2>Vice-President of Lambung Mangkurat Debate Society</h2>
+            <h4>Vieri Adi Dharma Puguh Putra</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+        </div>
+    </div>
+<div class="wrapper2">
+        <img src="/img/bian.jpg" alt="" />
+        <div class="text-box">
+            <h2>Secretary</h2>
+            <h4>Vieri Adi Dharma Puguh Putra</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+        </div>
+    </div>
+<div class="wrapper2">
+        <img src="/img/bian.jpg" alt="" />
+        <div class="text-box">
+            <h2>Treasurer</h2>
+            <h4>Vieri Adi Dharma Puguh Putra</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+        </div>
+    </div>
 
 
 {{< /rawhtml >}}
