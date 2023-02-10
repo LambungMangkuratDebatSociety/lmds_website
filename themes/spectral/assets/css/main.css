@@ -2901,6 +2901,10 @@ input, select, textarea {
 	letter-spacing: unset;
 }
 
+.text-box h3{
+	letter-spacing: unset;
+}
+
 .text-box p{
 	font-size: 16px;
 }

@@ -12,7 +12,7 @@ draft: false
         <img src="/img/bian.jpg" alt="" />
         <div class="text-box">
             <h2>President of Lambung Mangkurat Debate Society</h2>
-            <h4>Vieri Adi Dharma Puguh Putra</h4>
+            <h4>Tasya Febianadha</h4>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
         </div>
     </div>
