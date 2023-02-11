@@ -6,4 +6,5 @@ draft: false
 ## {{< details "This is the summary" >}}
 
 Collapsed text
+
 {{< /details >}}
