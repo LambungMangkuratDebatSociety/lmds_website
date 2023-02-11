@@ -9,4 +9,4 @@ draft: false
 
 ### Q﻿: Does the organization only focuses on debating?
 
-#### A: The essence of our organization is about debating, and improving your cognitive and critical thinking skills. In the end, we are an organization, so you will not only imp in that area that covers debatfe, but you will also learn and improve on your organizational skills, wincludes self-management skills
+#### A: The essence of our organization is about debating, and improving your cognitive and critical thinking skills. In the end, we are an organization, so you will not only impro in that area that covers debatfe, but you will also learn and improve on your organizational skills, wincludes self-management skillsvee
