@@ -5,7 +5,7 @@ theme = "spectral"
 
 [params]
 fancyTitle = "Lambung Mangkurat<br> Debate Society" # title for frontpage, may include image
-img = "/img/logo.png"
+img = "/img/logo_lmds_1.png"
 copyright = "Lambung Mangkurat<br> Debate Society"
 description = '<i>Corgito Ergo Sum</i>'
 startbuttonText = "About us"
@@ -29,10 +29,6 @@ title = "Executives & Divisions"
 [[params.menu.main]]
 url = '/about'
 title = "About us"
-
-[[params.menu.main]]
-url = '/contact'
-title = "Contact us"
 
 [[params.menu.main]]
 url = '/admin'
