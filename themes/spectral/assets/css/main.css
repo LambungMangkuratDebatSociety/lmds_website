@@ -4156,3 +4156,21 @@ input, select, textarea {
 		font-size: 16px;
 	}
 }
+
+details > summary {
+    list-style-type: '🔴';
+}
+
+details[open] > summary {
+    list-style-type: '🟢';
+}
+
+details {
+    border: 1px solid gray;
+    border-radius: 0.2rem;
+    padding: 2rem;
+}
+
+details[open] > summary {
+    margin-bottom: 0.5rem;
+}
