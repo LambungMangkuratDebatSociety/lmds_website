@@ -4142,3 +4142,17 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+	.collapse{
+		text-transform: none;
+		font-size: 1.5vw;
+		letter-spacing: 0px;
+		font-weight: 400;
+		text-align: justify;
+	}
+@media screen and (max-width: 600px){
+	.collapse{
+		font-size: 16px;
+	}
+}
