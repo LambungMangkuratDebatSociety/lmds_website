@@ -86,7 +86,7 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 [[params.three.feature]]
 icon = "fa-trophy"
 title = "Competition"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "We encourage our members to participate in debating competitions to improve their experiences for becoming better debaters."
 
 [[params.three.feature]]
 icon = "fa-users"

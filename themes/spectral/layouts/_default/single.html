@@ -9,8 +9,10 @@
 	<section class="wrapper style5">
 		<div class="inner">
       {{ .Content }}
+
+      <hr>
+      {{ partial "share-buttons2.html" . }}
 		</div>
 	</section>
 </article>
-{{ partial "share-buttons2.html" . }}
 {{ partial "footer.html" . }}
