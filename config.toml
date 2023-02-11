@@ -27,7 +27,7 @@ url = '/division'
 title = "Executives & Divisions"
 
 [[params.menu.main]]
-url = '/posts/about'
+url = '/about'
 title = "About us"
 
 [[params.menu.main]]
