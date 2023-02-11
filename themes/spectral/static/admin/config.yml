@@ -41,3 +41,10 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "text" }
+      
+      - file: "content/faq.md"
+        label: "FAQ"
+        name: "faq"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "text" }
