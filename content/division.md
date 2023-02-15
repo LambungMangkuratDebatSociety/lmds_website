@@ -72,7 +72,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
   </tr>
   <tr>
     <td>Co-Manager</td>
-    <td class="names">Eka Prasetya</td>
+    <td class="names">Eka Prasetya1</td>
     <td class="names">
     <a href="" class="fa fa-twitter"></a>
     <a href="" class="fa fa-instagram"></a>
