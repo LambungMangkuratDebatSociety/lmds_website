@@ -67,7 +67,6 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <td>Manager</td>
     <td class="names">Elma</td>
     <td class="names">
-    <a href="" class="fa fa-twitter"></a>
     <a href="" class="fa fa-instagram"></a>
     </td>
   </tr>
