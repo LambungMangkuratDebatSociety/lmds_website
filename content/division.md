@@ -67,7 +67,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <td>Manager</td>
     <td class="names">Elma</td>
     <td class="names">
-    <a href="" class="fa fa-twitter"></a>
+    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
     <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
     </td>
   </tr>
