@@ -65,7 +65,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
   </tr>
   <tr>
     <td>Manager</td>
-    <td class="names">Elma</td>
+    <td class="names">Elma Diva Vania</td>
     <td class="names">
     <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
     <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
@@ -81,7 +81,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
   </tr>
   <tr>
     <td>Member</td>
-    <td class="names">Elma</td>
+    <td class="names">Anugerah</td>
     <td class="names">
     <a href="" class="fa fa-twitter"></a>
     <a href="" class="fa fa-instagram"></a>
@@ -89,7 +89,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
   </tr>
   <tr>
     <td>Member</td>
-    <td class="names">Elma</td>
+    <td class="names">Aprizal Ramli</td>
     <td class="names">
     <a href="" class="fa fa-twitter"></a>
     <a href="" class="fa fa-instagram"></a>
