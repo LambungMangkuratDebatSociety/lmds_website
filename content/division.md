@@ -71,78 +71,45 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
     </td>
   </tr>
-  <tr>
-    <td>Co-Manager</td>
-    <td class="names">Eka Prasetya</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Anugerah</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Aprizal Ramli</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
+     <tr>
+        <td>Co-Manager</td>
+        <td class="names">Eka Prasetya</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Aprizal Ramli</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Meilawati Rohmatu Tsaniyah</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Ahmad zairullah kaisa</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Sulluh Andyka</td>
+    </tr>
+    <tr>
+        <td>Manager</td>
+        <td class="names">Elma Diva Vania</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Aprilina Kurnia</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Yasmine Najha</td>
+    </tr>
+        <td>Member</td>
+        <td class="names">Ahmad Defa Maulana</td>
+    </tr>
+    </tr>
+        <td>Member</td>
+        <td class="names">Anugerah</td>
+    </tr>
 </table>
 {{< /rawhtml >}}
 
@@ -168,6 +135,39 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <a href="" class="fa fa-twitter"></a>
     <a href="" class="fa fa-instagram"></a>
     </td>
+  </tr>
+     <tr>
+        <td>Co-Manager</td>
+        <td class="names">Rifqi Fierdha Maulana
+        </td>
+         <td class="names">
+    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
+    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+    </td>
+    </tr>
+  <tr>
+    <td>Member</td>
+    <td class="names">Gita Nindi Astuti</td>
+    <td class="names">
+    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
+    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+    </td>
+    <tr>
+        <td>Member</td>
+        <td class="names">Nor Alya</td>
+                 <td class="names">
+    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
+    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+    </td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Ikhtiara Fakhrunisa</td>
+             <td class="names">
+    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
+    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+    </td>
+    </tr>
   </tr>
 </table>
 {{< /rawhtml >}}
@@ -195,6 +195,30 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <a href="" class="fa fa-instagram"></a>
     </td>
   </tr>
+   <tr>
+        <td>Co-Manager</td>
+        <td class="names">Elisabeth</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Muhammad Arif Mustaqim</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Tahmi</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Muhammad Noralamsyah</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Anggreini Setyaningsih</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Zaina Safarina</td>
+    </tr>
 </table>
 {{< /rawhtml >}}
 
@@ -214,14 +238,30 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <th class="names">NAME</th>
     <th class="names">SOCIAL</th>
   </tr>
-  <tr>
-    <td>Manager</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
-  </tr>
+   <tr>
+        <td>Member</td>
+        <td class="names">Uswatun Hasanah</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Wildy Ahmad Fayadhi</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Ghazyrullah Nur Khair</td>
+    </tr>
+    <tr>
+        <td>Manager</td>
+        <td class="names">Philips</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Ridwan Hafiz Maulana</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Muhammad Syarif Hidayatullah</td>
+    </tr>
 </table>
 {{< /rawhtml >}}
 
