@@ -13,15 +13,50 @@ draft: false
         <div class="text-box">
             <h2>President of Lambung Mangkurat Debate Society</h2>
             <h4>Tasya Febianadha</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+            <p>&emsp;Meet our president! She has been studying on Public Administration in Social and Politics Faculty since 2020. She joined LMDS in 2020.</p>
+            <div class="history">
+                    <p>Histories:</p>
+                <ul>
+                    <li>Member of External Divisions (2020)</li>
+                    <li>Manager of Media and Design Divisions (2021)</li>
+                    <li>President of LMDS (2023)</li>
+                </ul>
+            </div>
+            <div class="achieve">
+                <p>Achievements:</p>
+                <ul>
+                <li>Swing KODE (Kalimantan Open Debate) 2022</li>
+                <li>Medcha 2022 Participant</li>
+                </ul>
+            </div>
+            <p>&emsp;You might be curious, what does she do as the president? Well, there are so many things. The president has the highest authority in organization. It is her job to maintain everything in LMDS, she is the one who making decision in many cases and handling any obstacles in LMDS. Not only that, She is also the one who help and look after the members. Indeed, a great power comes great responsibility.</p>
         </div>
     </div>
 <div class="wrapper2">
         <img src="/img/vieri.jpg" alt="" />
         <div class="text-box">
             <h2>Vice-President of Lambung Mangkurat Debate Society</h2>
-            <h4>Vieri Adi Dharma Puguh Putra</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+            <h4>Vieri Adi Dharma Puguh Putra</h4>    
+            <p>&emsp;Here's the vice president of LMDS! Who has been studying on Law Science in Law Faculty since 2020. Just like our president, he joined LMDS in 2020.</p>
+            <div class="history">
+                    <p>Histories:</p>
+                <ul>
+                    <li>Internal Trainee (2020)</li>
+                    <li>internal Manager (2021)</li>
+                    <li>Training Manager (2022)</li>
+                    <li>Vice President of LMDS (2023)</li>
+                </ul>
+            </div>
+            <div class="achieve">
+                <p>Achievements:</p>
+                <ul>
+              <li>NUDC Best N-1 Adjudicator</li>
+              <li>NUDC 2022 Best 14th Open Speaker and Open Quarterfinalist</li>
+              <li>Disporseni UT 2022 Grandfinalist and Overall Best Speaker</li>
+              <li>EFL Breaks Shanghai - Hanoi Asia BP 2021</li>
+                </ul>
+            </div>
+            <p>&emsp;What is his job, you wonder? Of course. To help the president as a second in command. He also help in monitoring every job desk through LMDS Divisions. He may be just a vice-president, but as powerful as our president!</p>
         </div>
     </div>
 <div class="wrapper2">
@@ -40,6 +75,7 @@ draft: false
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
         </div>
     </div>
+
 
 
 {{< /rawhtml >}}

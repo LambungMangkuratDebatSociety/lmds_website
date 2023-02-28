@@ -95,8 +95,33 @@ body {
 	line-height: 1;
 }
 
+.text-box p {
+	margin-left: 14%;
+}
 
+.history ul li {
+	margin-top: 2mm;
+	list-style-type: none;
+	margin-left: 13%;
+	}
+	
+.history ul li:before {
+	content: "🗓";
+	padding-right: 5px;
+	color:red
+}
 
+.achieve ul li {
+	margin-top: 2mm;
+	list-style-type: none;
+	margin-left: 13%;
+	}
+	
+.achieve ul li:before {
+	content: "🏆";
+	padding-right: 5px;
+	color:goldenrod
+}
 
 ol, ul {
 	list-style: none;
