@@ -87,9 +87,9 @@ Adipisicing laborum reprehenderit nulla veniam sint excepteur est do sit mollit 
 ## {{< rawhtml >}}<i class="fa fa-paint-brush" aria-hidden="true"></i>
 {{< /rawhtml >}} Media & Design Division 
 
-Laboris dolor do Lorem pariatur ex proident esse id nostrud aute consequat minim voluptate. Reprehenderit amet velit minim fugiat dolor sint deserunt mollit nostrud culpa. Ullamco tempor laborum et non magna sint incididunt velit sit deserunt. Aute est nulla dolore qui id Lorem deserunt excepteur minim.
+Media & Design division has its priority and responsibility on the creative process of creating and beautifying the image of Lambung Mangkurat Debate Society, ranging from their appearance on Social Media and posters.
 
-Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatur aliquip id magna nisi cillum commodo minim ipsum enim anim officia eu dolore laboris. Laboris consequat id velit labore excepteur aliqua eiusmod id officia Lorem eu elit. Excepteur adipisicing cupidatat laboris veniam do est mollit Lorem minim proident sunt enim non laboris. Enim id quis qui ipsum.
+They have responsibilities in content creation. For example, on Instagram, they have responsibilities to post an announcement, big days, appreciation posts, FYI, Pro & Con, and many more!
 
 {{< rawhtml >}}
 <h3><i class="fa fa-user" aria-hidden="true"> </i> Member of Media & Design division</h3>
@@ -110,41 +110,63 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
      <tr>
         <td>Co-Manager</td>
         <td class="names">Eka Prasetya</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/archrawler/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Aprizal Ramli</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/apriz_l/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Meilawati Rohmatu Tsaniyah</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/thisismeila/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Ahmad zairullah kaisa</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/ahmz_kaisaa/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Sulluh Andyka</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/sulluhandyka/" class="fa fa-instagram"></a>
+    </td>
     </tr>
-    <tr>
-        <td>Manager</td>
-        <td class="names">Elma Diva Vania</td>
-    </tr>
-    <tr>
         <td>Member</td>
         <td class="names">Aprilina Kurnia</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/krpril/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Yasmine Najha</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/najhayasmine/" class="fa fa-instagram"></a>
+    </td>
     </tr>
         <td>Member</td>
         <td class="names">Ahmad Defa Maulana</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/defamaulana.7/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     </tr>
         <td>Member</td>
         <td class="names">Anugerah</td>
+        <td class="names">
+        <a target="_blank" href="https://www.instagram.com/brflook/" class="fa fa-instagram"></a>
+    </td>
     </tr>
 </table>
 {{< /rawhtml >}}
@@ -176,32 +198,30 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
         <td>Co-Manager</td>
         <td class="names">Rifqi Fierdha Maulana
         </td>
-         <td class="names">
-    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
-    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+        <td class="names">
+         <a target="_blank" href="https://twitter.com/asterianzz" class="fa fa-twitter"></a>
+         <a target="_blank" href="https://www.instagram.com/fierdhamaulana/" class="fa fa-instagram"></a>
     </td>
     </tr>
   <tr>
     <td>Member</td>
     <td class="names">Gita Nindi Astuti</td>
     <td class="names">
-    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
-    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+         <a target="_blank" href="https://www.instagram.com/chwyorchi/" class="fa fa-instagram"></a>
     </td>
     <tr>
         <td>Member</td>
         <td class="names">Nor Alya</td>
-                 <td class="names">
-    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
-    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/Alya_aal/" class="fa fa-instagram"></a>
     </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Ikhtiara Fakhrunisa</td>
-             <td class="names">
-    <a target="_blank" href="https://twitter.com/coupdeventt" class="fa fa-twitter"></a>
-    <a target="_blank" href="https://www.instagram.com/elma.dv/" class="fa fa-instagram"></a>
+        <td class="names">
+        <a target="_blank" href="https://twitter.com/peepzxx" class="fa fa-twitter"></a>
+         <a target="_blank" href="https://www.instagram.com/tiarafnnsa/" class="fa fa-instagram"></a>
     </td>
     </tr>
   </tr>
@@ -234,26 +254,45 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
    <tr>
         <td>Co-Manager</td>
         <td class="names">Elisabeth</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/elisabeeeth02/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Muhammad Arif Mustaqim</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/ripmust/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Tahmi</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/Tahmidillah9/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Muhammad Noralamsyah</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/noralam_/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Anggreini Setyaningsih</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/anggireiniii/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Zaina Safarina</td>
+        <td class="names">
+        <a target="_blank" href="https://twitter.com/pecikologi" class="fa fa-twitter"></a>
+         <a target="_blank" href="https://www.instagram.com/zainasafarina_/" class="fa fa-instagram"></a>
+    </td>
     </tr>
 </table>
 {{< /rawhtml >}}
@@ -274,29 +313,48 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <th class="names">NAME</th>
     <th class="names">SOCIAL</th>
   </tr>
+    <tr>
+        <td>Manager</td>
+        <td class="names">Philips</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/Philips_elifiel/" class="fa fa-instagram"></a>
+    </td>
+    </tr>
    <tr>
         <td>Member</td>
         <td class="names">Uswatun Hasanah</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/aixnzz_/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Wildy Ahmad Fayadhi</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/af_wildy_29/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Ghazyrullah Nur Khair</td>
-    </tr>
-    <tr>
-        <td>Manager</td>
-        <td class="names">Philips</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/crashjr_007/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Ridwan Hafiz Maulana</td>
+        <td class="names">
+        <a target="_blank" href="https://twitter.com/littlecatfly" class="fa fa-twitter"></a>
+         <a target="_blank" href="https://www.instagram.com/rhfizmlna_/" class="fa fa-instagram"></a>
+    </td>
     </tr>
     <tr>
         <td>Member</td>
         <td class="names">Muhammad Syarif Hidayatullah</td>
+        <td class="names">
+         <a target="_blank" href="https://www.instagram.com/syareefs/" class="fa fa-instagram"></a>
+    </td>
     </tr>
 </table>
 {{< /rawhtml >}}
