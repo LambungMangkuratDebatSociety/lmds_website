@@ -9,7 +9,7 @@ draft: false
 {{< rawhtml >}}
 
 <div class="wrapper2">
-        <img src="/img/bian.jpg" alt="" />
+        <img src="/img/bian.JPG" alt="" />
         <div class="text-box">
             <h2>President of Lambung Mangkurat Debate Society</h2>
             <h4>Tasya Febianadha</h4>
@@ -33,7 +33,7 @@ draft: false
         </div>
     </div>
 <div class="wrapper2">
-        <img src="/img/vieri.jpg" alt="" />
+        <img src="/img/vieri.JPG" alt="" />
         <div class="text-box">
             <h2>Vice-President of Lambung Mangkurat Debate Society</h2>
             <h4>Vieri Adi Dharma Puguh Putra</h4>    
@@ -60,27 +60,63 @@ draft: false
         </div>
     </div>
 <div class="wrapper2">
-        <img src="/img/bian.jpg" alt="" />
+        <img src="/img/afif.JPG" alt="" />
         <div class="text-box">
-            <h2>Secretary</h2>
-            <h4>Vieri Adi Dharma Puguh Putra</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+            <h2>Secretary 1</h2>
+            <h4>Ahmad Afif Yusuf</h4>
+             <p>&emsp;Here's the first secretary of LMDS! Who has been studying on English Language Study Program in Faculty of Teacher Training and Education since 2021. He joined LMDS in 2021.</p>
+            <div class="history">
+                    <p>Histories:</p>
+                <ul>
+                    <li>Member of External Division (2021)</li>
+                    <li>Member of Media and Design (2022)</li>
+                    <li>Secretary 1 (2023)</li>
+                </ul>
+            </div>
+        </div>  
+    </div>
+<div class="wrapper2">
+        <img src="/img/pris.JPG" alt="" />
+        <div class="text-box">
+            <h2>Secretary 2</h2>
+            <h4>Priscilla Aquirera Iory Siahaan</h4>
+             <p>&emsp;Here's the second secretary of LMDS! Who's currently studying on Statistics in Faculty of Mathematics and Natural Science since 2022. He joined LMDS in 2021.</p>
+            <div class="history">
+                    <p>Histories:</p>
+                <ul>
+                    <li>Secretary 2 (2023)</li>
+                </ul>
+            </div>     
         </div>
     </div>
 <div class="wrapper2">
-        <img src="/img/bian.jpg" alt="" />
+        <img src="/img/fina.JPG" alt="" />
         <div class="text-box">
             <h2>Treasurer</h2>
-            <h4>Vieri Adi Dharma Puguh Putra</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quae asperiores consectetur, tempora illum, harum quidem pariatur commodi magni ex id laboriosam quis. Aut inventore dolores magni officia maiores tenetur?</p>      
+            <h4>Sofina Azkia</h4>
+            <p>&emsp;Here's the Treasurer of LMDS! Who has been studying on Acounting in Faculty of Economics and Business 2020 </p>
+            <div class="history">
+                    <p>Histories:</p>
+                <ul>
+                    <li>Member of Project Division (2021)</li>
+                    <li>Co-Manager of Internal Division (2022)</li>
+                </ul>
+            </div>
+            <div class="achieve">
+                <p>Achievements:</p>
+                <ul>
+              <li>CNC 2.0 2021 Breaking team Quaterfinalist</li>
+              <li>BIRFEST 2022 Oktofinalist</li>
+              <li>IDN PRA KDMI 2022 Quaterfinalist</li>
+              <li>EFL Breaks Shanghai - Hanoi Asia BP 2021</li>
+                </ul>
+            </div>
+        </div>  
         </div>
-    </div>
 
 
 
 {{< /rawhtml >}}
-
-Adipisicing laborum reprehenderit nulla veniam sint excepteur est do sit mollit tempor. Dolor amet mollit nostrud tempor mollit aliquip eu officia consectetur adipisicing dolore pariatur. Tempor qui labore aliquip amet laborum duis qui non non proident enim veniam. Tempor reprehenderit consectetur ad deserunt commodo voluptate consequat esse magna. Quis aute aliqua nostrud in reprehenderit. Deserunt quis duis sit pariatur ut minim nulla eiusmod incididunt cillum cupidatat. Esse occaecat ut commodo officia.
 
 ---
 
@@ -174,9 +210,7 @@ They have responsibilities in content creation. For example, on Instagram, they 
 ---
 ## {{< rawhtml >}}<i class="fa fa-wrench" aria-hidden="true"></i>{{< /rawhtml >}} Internal Division
 
-Laboris dolor do Lorem pariatur ex proident esse id nostrud aute consequat minim voluptate. Reprehenderit amet velit minim fugiat dolor sint deserunt mollit nostrud culpa. Ullamco tempor laborum et non magna sint incididunt velit sit deserunt. Aute est nulla dolore qui id Lorem deserunt excepteur minim.
-
-Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatur aliquip id magna nisi cillum commodo minim ipsum enim anim officia eu dolore laboris. Laboris consequat id velit labore excepteur aliqua eiusmod id officia Lorem eu elit. Excepteur adipisicing cupidatat laboris veniam do est mollit Lorem minim proident sunt enim non laboris. Enim id quis qui ipsum.
+The Internal Division focuses on the Internal problem in the organization. They are responsible for the Monthly Gathering activity and many more concerning the organization.
 
 {{< rawhtml >}}
 <h3><i class="fa fa-user" aria-hidden="true"> </i> Member of Internal division</h3>
@@ -188,11 +222,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
   </tr>
   <tr>
     <td>Manager</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
+    <td class="names">Ismudatin Naida</td>
   </tr>
      <tr>
         <td>Co-Manager</td>
@@ -209,6 +239,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
     <td class="names">
          <a target="_blank" href="https://www.instagram.com/chwyorchi/" class="fa fa-instagram"></a>
     </td>
+      </tr>
     <tr>
         <td>Member</td>
         <td class="names">Nor Alya</td>
@@ -224,16 +255,42 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
          <a target="_blank" href="https://www.instagram.com/tiarafnnsa/" class="fa fa-instagram"></a>
     </td>
     </tr>
-  </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Akhmad Syaifuddin Arrizky</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Anggraini Aprilia</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Muhammad Fajri</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Prima Adhyaksantara</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Rachel Laurent</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Rachmi Nafissa Ramadhan</td>
+    </tr>
+    <tr>
+        <td>Member</td>
+        <td class="names">Safirah</td>
+    </tr>
+
 </table>
 {{< /rawhtml >}}
 
 ---
 ## {{< rawhtml >}}<i class="fa fa-handshake-o" aria-hidden="true"></i>{{< /rawhtml >}} Public Relation Division 
 
-Laboris dolor do Lorem pariatur ex proident esse id nostrud aute consequat minim voluptate. Reprehenderit amet velit minim fugiat dolor sint deserunt mollit nostrud culpa. Ullamco tempor laborum et non magna sint incididunt velit sit deserunt. Aute est nulla dolore qui id Lorem deserunt excepteur minim.
-
-Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatur aliquip id magna nisi cillum commodo minim ipsum enim anim officia eu dolore laboris. Laboris consequat id velit labore excepteur aliqua eiusmod id officia Lorem eu elit. Excepteur adipisicing cupidatat laboris veniam do est mollit Lorem minim proident sunt enim non laboris. Enim id quis qui ipsum.
+Public Relations plays a crucial role in helping the organization to build and maintain positive relationships, communicate effectively with the public, and protect our reputation.
 
 {{< rawhtml >}}
 <h3><i class="fa fa-user" aria-hidden="true"> </i> Member of Public Relation division</h3>
@@ -245,11 +302,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
   </tr>
   <tr>
     <td>Manager</td>
-    <td class="names">Elma</td>
-    <td class="names">
-    <a href="" class="fa fa-twitter"></a>
-    <a href="" class="fa fa-instagram"></a>
-    </td>
+    <td class="names">Delia Sasya Oktafiani</td>
   </tr>
    <tr>
         <td>Co-Manager</td>
@@ -294,6 +347,35 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
          <a target="_blank" href="https://www.instagram.com/zainasafarina_/" class="fa fa-instagram"></a>
     </td>
     </tr>
+        <tr>
+        <td>Member</td>
+        <td class="names">Shofiyya Sholihah</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Member</td>
+        <td class="names">Nur Annisa</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Member</td>
+        <td class="names">Muhammad Haqin Nazili</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Member</td>
+        <td class="names">Hidayatus Shalehah</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Member</td>
+        <td class="names">Felisitas Artemisia Rerung</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Member</td>
+        <td class="names">Aisha Berliana Maritza</td>
+    </tr>
 </table>
 {{< /rawhtml >}}
 
@@ -301,9 +383,7 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
 
 ## {{< rawhtml >}}<i class="fa fa-bolt" aria-hidden="true"></i>{{< /rawhtml >}} Training Division
 
-Laboris dolor do Lorem pariatur ex proident esse id nostrud aute consequat minim voluptate. Reprehenderit amet velit minim fugiat dolor sint deserunt mollit nostrud culpa. Ullamco tempor laborum et non magna sint incididunt velit sit deserunt. Aute est nulla dolore qui id Lorem deserunt excepteur minim.
-
-Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatur aliquip id magna nisi cillum commodo minim ipsum enim anim officia eu dolore laboris. Laboris consequat id velit labore excepteur aliqua eiusmod id officia Lorem eu elit. Excepteur adipisicing cupidatat laboris veniam do est mollit Lorem minim proident sunt enim non laboris. Enim id quis qui ipsum.
+The Training Division is responsible for creating schedules to train individuals in debating. Encouraging and creating spaces for people to train their debating skills.
 
 {{< rawhtml >}}
 <h3><i class="fa fa-user" aria-hidden="true"> </i> Member of Training division</h3>
@@ -319,6 +399,10 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
         <td class="names">
          <a target="_blank" href="https://www.instagram.com/Philips_elifiel/" class="fa fa-instagram"></a>
     </td>
+    </tr>
+         <tr>
+        <td>Member</td>
+        <td class="names">Diva Oktavina Ivada</td>
     </tr>
    <tr>
         <td>Member</td>
@@ -355,6 +439,22 @@ Do nostrud dolor reprehenderit pariatur amet amet elit magna esse dolor. Pariatu
         <td class="names">
          <a target="_blank" href="https://www.instagram.com/syareefs/" class="fa fa-instagram"></a>
     </td>
+    </tr>
+     <tr>
+        <td>Member</td>
+        <td class="names">Muhammad Firas</td>
+    </tr>
+     <tr>
+        <td>Member</td>
+        <td class="names">Muhammad Ferdy Setiawan</td>
+    </tr>
+     <tr>
+        <td>Member</td>
+        <td class="names">Bhisma Ridho Romadhon</td>
+    </tr>
+     <tr>
+        <td>Member</td>
+        <td class="names">Fahdina Qanitah</td>
     </tr>
 </table>
 {{< /rawhtml >}}
