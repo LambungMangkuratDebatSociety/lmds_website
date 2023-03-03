@@ -3877,6 +3877,7 @@ input, select, textarea {
 				padding: 7em 3em 5em 3em ;
 				height: auto;
 				min-height: 0;
+				box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.467);
 			}
 
 				#banner h2 {
