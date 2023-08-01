@@ -6,6 +6,6 @@
 {{ $util := resources.Get "js/util.js" }}
 {{ $main := resources.Get "js/main.js" }}
 
-{{ $js := slice $jquery $jquery_scrollex $jquery_scrolly $browser $breakpoints $util $main | resources.Concat "js/bundle.js" | minify | fingerprint "sha512" }}
+{{ $js := slice $jquery $jquery_scrollex $jquery_scrolly $browser $breakpoints $util $main| resources.Concat "js/bundle.js" | minify | fingerprint "sha512" }}
 
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>

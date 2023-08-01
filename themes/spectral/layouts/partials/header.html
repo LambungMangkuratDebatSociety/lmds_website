@@ -11,6 +11,7 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
 		<link rel="manifest" href="/img/site.webmanifest">
 		<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5">
+		<link rel="stylesheet" href="css/iziToast.min.css">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
 
@@ -19,7 +20,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="referrer" content="origin">
 		<script defer src="/static/fonts/all.js"></script>
-
+		
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     {{ with .Site.Params.description }}<meta name="description" content="{{ . | plainify }}">{{ end }}
@@ -39,9 +40,9 @@
 	</head>
 	<body class="landing is-preload">
 
+
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
-
 				<!-- Header -->
           <header id="header"{{ if .Page.IsHome }} class="alt"{{ end }}>
             <h1 style="font-size: 2vw; letter-spacing: unset;"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>

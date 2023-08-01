@@ -4,6 +4,17 @@
 
 {{ partial "one.html" . }}
 
+<script src="/js/iziToast.min.js" type="text/javascript"></script>
+				<script>
+					iziToast.show({
+						timeout: 20000,
+                        image: 'img/logo_lmds_1.png',
+						close: true,
+						title: 'WE NEED YOU!',
+						message: '<a href="/posts/lmds_rec_2023">Want to join LMDS? Click here!</a>',
+					});
+				</script>
+
 {{ partial "two.html" . }}
 
 {{ partial "three.html" . }}

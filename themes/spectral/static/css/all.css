@@ -7882,6 +7882,14 @@ readers do not read off random characters that represent icons */
   --fa-style-family-classic: 'Font Awesome 6 Free';
   --fa-font-regular: normal 400 1em/1 'Font Awesome 6 Free'; }
 
+
+  ody {
+    font-family: Arial;
+    height: 100vh;
+    background: linear-gradient(#7d6cfc, #c635ea);
+  }
+ 
+
 @font-face {
   font-family: 'Font Awesome 6 Free';
   font-style: normal;
